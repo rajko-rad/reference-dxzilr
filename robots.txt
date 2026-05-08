@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rajko-rad.github.io/reference-dxzilr/sitemap.xml
